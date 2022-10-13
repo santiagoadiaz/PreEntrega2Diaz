@@ -1,0 +1,60 @@
+.divGeneral {
+  background-color: aqua;
+  color: gray;
+}
+
+.cardProducto {
+  width: 18rem;
+  margin: 4px;
+}
+
+.btn-food {
+  margin-top: 1rem;
+  background-color: #023A71;
+  width: 55%;
+  color: white;
+  cursor: pointer !important;
+}
+
+.productostext {
+  margin-top: 100px;
+  padding: 50px;
+  font-family: 'Londrina Solid', cursive;
+  letter-spacing: 1px;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  color: #023A71;
+}
+
+.container-product {
+  width: 85%;
+  margin: auto;
+}
+
+.text-product-one {
+  font-family: 'Bebas Neue', cursive;
+  margin: 20px 0 3px 0;
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #000000;
+}
+
+.text-product-two {
+  font-family: Arial;
+  margin: 3px 0 3px 0;
+  letter-spacing: 0.5px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #000000;
+}
+
+.text-product-three {
+  font-family: Arial;
+  margin: 3px 0 3px 0;
+  letter-spacing: 0px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #afafaf;
+}
